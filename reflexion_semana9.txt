@@ -1,0 +1,7 @@
+Las plataformas tecnológicas comunitarias necesitan funcionar de manera estable 
+porque muchas personas dependen de ellas para enviar y consultar información.
+Un servidor seguro permite proteger los datos y mantener disponible el servicio. La estabilidad ayuda a 
+evitar interrupciones y pérdida de información. Además, una buena administración del servidor facilita 
+solucionar problemas rápidamente. La seguridad permite proteger a los usuarios y sus datos personales. 
+Por esta razón es importante contar con servidores confiables para apoyar los procesos participativos de las 
+comunidades.
